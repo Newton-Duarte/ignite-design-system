@@ -1,5 +1,11 @@
 # @newton-ignite-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Fix TextInput size prop conflict
+
 ## 2.0.1
 
 ### Patch Changes
